@@ -1,3 +1,9 @@
+
+/**********************************************************************************
+ *  https://www.youtube.com/watch?v=LJFMjTkvWM4
+ *  Download the libraries 
+ *  Adafruit_fingerprint sensor Library https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library
+ **********************************************************************************/
 #include <Adafruit_Fingerprint.h>
 #include <Arduino.h>
 
